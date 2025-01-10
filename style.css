@@ -70,6 +70,8 @@ img:hover{
 h1{
     position: absolute;
     align-items: center;
+    left: 42%;
+    right: 50%;
     bottom: 13%;
     font-size: 80px;
     font-style: italic;
